@@ -3,7 +3,7 @@
 Compare what your product costs with what its raw inputs cost. A big gap means most of the cost is in how it's
 made. Source: `references/04-cost-from-first-principles.md` [TED13, TED17, SB1 06:20].
 
-## 1 · Your "cost per ton to orbit"
+## 1 · Your "cost per ton to orbit" [SB1 06:20]
 
 The one unit cost that decides whether you win (e.g. cost to serve one customer per month, cost per order,
 cost per generated video): **______________** · Today: ______ · Competitor (if known): ______
@@ -18,7 +18,9 @@ cost per generated video): **______________** · Today: ______ · Competitor (if
 | **Floor (sum of raw inputs)** | | | |
 
 - **Current cost per item:** ______ · **Floor:** ______ · **Ratio (current ÷ floor):** ______
-- Musk's rocket version: propellant was "about .3 percent of the cost of the rocket". [TED13]
+- Musk's rocket version: propellant was "about .3 percent of the cost of the rocket". [TED13 15:11]
+- His rule of thumb: at volume, "any given thing" starts to approach its material cost [DW 01:44:16]. Price each
+  input at volume, not at prototype prices.
 
 ## 3 · Where does the gap go?
 
@@ -28,15 +30,21 @@ cost per generated video): **______________** · Today: ______ · Competitor (if
 | | | |
 
 - **Reuse:** what do you throw away after each use that you could reuse? It only counts if reuse is "rapid
-  and complete". [TED17]
+  and complete". [TED17 31:24]
 - **Move it "to the ground side":** what could move out of each unit into shared infrastructure? [SB2 30:24]
 
 ## 4 · Set the target as a multiple
 
-- **Target:** ___x cheaper by ______ (he set "at least a tenfold improvement" for tunnelling [TED17])
+- **Target:** ___x cheaper by ______ (he set "at least a tenfold improvement" for tunnelling [TED17 02:59])
 - **First lever** (his was cutting the tunnel diameter by two or more): ______________
 - **Second lever:** ______________
 
-## 5 · Price decision
+## 5 · Check the whole system
+
+- Does a cheaper or "worse" input make the whole product cheaper or better? (His case: steel beat carbon fiber
+  for Starship once heat shield and welding were counted [DW 01:44:16].) ______________
+- Should you make this input yourself? See `references/10-make-it-yourself.md`. ______________
+
+## 6 · Price decision
 
 - With the new cost, what can you charge, and who could now afford it? ______________

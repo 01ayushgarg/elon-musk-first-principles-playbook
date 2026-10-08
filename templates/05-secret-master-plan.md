@@ -21,12 +21,13 @@ Source: `references/07-strategy-and-sequencing.md`.
 | Who pays the premium in step 1, and why can't they get it elsewhere? | |
 | What does step 1 teach you that step 2 needs? | |
 | What unit cost has to fall between steps, and by how much? | |
-| What is the "orbit" milestone now, and which "doors" can wait? [SB2 28:01] | |
+| What is the orbit milestone now, and which doors can wait? [SB2 28:01] | |
 | What would make this plan look random to an outsider? Write the paragraph that explains it. [MP2] | |
+| Which of your own products should the next one make redundant? [IAC17] | |
 
 ## Honest odds
 
-His at Tesla's start: "I thought our chances of success were so low that I didn't want to risk anyone's funds
-in the beginning but my own." [MP2]
+His at Tesla's start were low enough that he funded it alone at first [MP2]; at SpaceX in 2002 he put them at
+maybe 10% [NS17].
 
 Your honest odds: ______ · Why it's still worth it: ______________
