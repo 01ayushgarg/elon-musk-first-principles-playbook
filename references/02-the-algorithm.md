@@ -3,7 +3,8 @@
 > "I have this very basic first principles algorithm that I run kind of as a mantra." [LEX438 00:44:08]
 
 He has explained it at least twice on record: on the 2021 Starbase tour [SB1 13:29 to 26:26] and to Lex
-Fridman in 2024 [LEX438 00:44:08 to 00:48:09]. The order matters.
+Fridman in 2024 [LEX438 00:44:08 to 00:48:09]. The steps and their order are the same both times. The order is
+the point.
 
 ## Step 1 · Make the requirements less dumb
 
@@ -13,64 +14,91 @@ Fridman in 2024 [LEX438 00:44:08 to 00:48:09]. The order matters.
 > "It does not matter who gave them to you. It's particularly dangerous, if a smart person gave you the
 > requirements, because you might not question them enough." [SB1 13:40]
 
-> "Otherwise, you could get the perfect answer to the wrong question. So, try to make the question the least
-> wrong possible." [LEX438 00:44:08]
-
-**Every requirement needs a name:** "Whatever requirement or constraint you have, it must come with a name,
-not a department. 'Cause you can't ask the departments, you have to ask a person." [SB1 16:00] Otherwise "you
-could have a requirement that basically an intern two years ago randomly came up with." [SB1 16:16]
+**Every requirement needs a name:** "it must come with a name, not a department. 'Cause you can't ask the
+departments, you have to ask a person." [SB1 16:00] Otherwise, he says, you may be obeying a requirement that an
+intern came up with two years ago [SB1 16:16].
 
 ## Step 2 · Delete the part or process step
-
-> "The second thing is try to delete whatever the step is, the part or the process step. It sounds very
-> obvious, but people often forget to try deleting it entirely." [LEX438 00:44:53]
 
 > "If you're not forced to put back at least 10% of what you delete, you're not deleting enough."
 > [LEX438 00:44:53]
 
-> "The bias tends to be very strongly towards, let's add this part of the process step in case we need it."
-> [SB1 14:07]
-
-> "So, you got to overcorrect. This is, I would say, like a cortical override to a limbic instinct."
-> [LEX438 00:47:21]
-
-> "Best part is no part" [X 2025-08-13](https://x.com/elonmusk/status/1955735069659947392)
+He says the bias runs "very strongly towards, let's add this part of the process step in case we need it"
+[SB1 14:07], so you have to overcorrect, which he calls "a cortical override to a limbic instinct"
+[LEX438 00:47:21]. His shortest version: "Best part is no part"
+[X 2025-08-13](https://x.com/elonmusk/status/1955735069659947392).
 
 ## Step 3 · Simplify or optimize
-
-> "And only the third thing is try to optimize it or simplify it." [LEX438 00:44:53]
 
 > "I'd say the most common mistake of smart engineers is to optimize a thing that should not exist."
 > [LEX438 00:44:53]
 
-Why smart people do it: "everyone has been trained in high school and college that you gotta answer the
-question, convergent logic. So you can't tell a professor, your question is dumb." [SB1 17:40 to 17:50]
+Why smart people do it: school trains "convergent logic", so "you can't tell a professor, your question is
+dumb." [SB1 17:40 to 17:50]
 
 ## Step 4 · Accelerate cycle time
 
-> "Any given thing can be sped up. However fast you think it can be done, whatever the speed it's being done,
-> it can be done faster. But you shouldn't speed things up until you've tried to delete it and optimize."
-> [LEX438 00:47:50]
-
-> "Speeding up something that shouldn't exist is absurd." [LEX438 00:47:50]
+> "However fast you think it can be done, whatever the speed it's being done, it can be done faster. But you
+> shouldn't speed things up until you've tried to delete it and optimize." [LEX438 00:47:50]
 
 ## Step 5 · Automate
 
-> "And then, the fifth thing is to automate it. I've gone backwards so many times where I've automated
-> something, sped it up, simplified it, and then deleted it. And I got tired of doing that." [LEX438 00:48:09]
+> "I've gone backwards so many times where I've automated something, sped it up, simplified it, and then deleted
+> it. And I got tired of doing that." [LEX438 00:48:09]
 
 ## The story: Model 3 fiberglass mats [SB1 22:21 to 24:42]
 
-The Model 3 battery pack had fiberglass mats placed by a robot cell. He went through the steps backwards:
-"So automating was a mistake. Then accelerating was mistake. Then optimizing was a mistake. And finally I said,
-what the hell are these mats for?" The battery team said the mats were for noise and vibration; the noise
-team said fire safety. They tested cars with and without mats and nobody could tell the difference. "So we
-just deleted them and just bypass this $2 million robot cell." (Caption text; minor caption errors not shown.)
+In his telling (paraphrased from the caption track): the Model 3 battery pack had fiberglass mats placed by a
+robot cell. He worked the steps backwards, speeding up and automating the cell before asking what the mats were
+for. The battery team said noise and vibration; the noise team said fire safety. Cars tested with and without
+the mats showed no difference, so the mats were deleted, along with "this $2 million robot cell".
 
-## Related production rule
+A related rule from the same walk-through: production lines often keep end-of-line tests after the problem they
+were added for has been diagnosed. Remove them [SB1 25:13].
 
-> "So a very common issue with production lines is to not remove the end process testing after you diagnose
-> where the problems are." [SB1 25:13]
+---
+
+## How to apply it (our suggestion)
+
+Run it in one sitting, on one process, with the people who do the work.
+
+1. **Pick one process** and write its current cost and cycle time at the top.
+2. **List every requirement.** For each, write the name of the person who set it. If nobody knows, mark it
+   *orphan*. Ask the named person if it's still needed.
+3. **Delete,** starting with orphans and "in case we need it" steps. Keep a list of what you deleted.
+4. **Simplify** only what survived.
+5. **Time the cycle** and make it faster.
+6. **Automate** only what is left, and only now.
+7. **Set a put-back date** two to four weeks out. If you put back nothing, you didn't delete enough.
+
+### Worked scenario (fictional)
+
+An eight-person agency publishes client reports through 14 steps, taking 9 working days.
+
+| Step of the algorithm | What happened | Steps left | Days |
+|---|---|---|---|
+| Start | 14 steps, 3 approvals | 14 | 9 |
+| 1 · Requirements | 5 requirements had no name. Two approvals traced to one client who left in 2023 | 14 | 9 |
+| 2 · Delete | Cut 7 steps, including both orphan approvals and a "final format check" | 7 | 5 |
+| 3 · Simplify | Merged two data pulls into one template | 6 | 4 |
+| 4 · Accelerate | Ran the data pull overnight instead of on request | 6 | 2 |
+| 5 · Automate | Automated the chart export, the only repetitive step left | 6 | 1.5 |
+| Put-back review | Put back 1 of 7 (a spell check), about 14% | 7 | 1.5 |
+
+Had they automated first, they would have automated two approvals nobody needed.
+
+### Failure modes
+
+- **Starting at step 5.** Buying automation for a process you haven't questioned. His own mats story is this.
+- **Departments as owners.** "Legal wants it" can't be questioned. A named lawyer can.
+- **Deleting with no put-back list.** You lose the evidence you need to learn what was actually needed.
+- **Never putting anything back.** By his rule, that means you stopped too early.
+
+### Limits
+
+Deleting steps in a safety-critical, regulated or customer-money process is a Dragon change (chapter 05):
+delete on paper first, then test, then roll out. His 10% is a rule of thumb for how hard to push, not a
+measured constant.
 
 **Use it now:** `templates/01-the-algorithm.md`.
 
