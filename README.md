@@ -6,9 +6,9 @@ Built only from his own recorded words.**
 
 Elon Musk runs SpaceX and Tesla, and co-founded Neuralink and xAI. He has explained how he attacks cost,
 complexity and speed many times on the record: at TED, to Lex Fridman and Dwarkesh Patel, walking through the
-Starbase rocket factory, at the 2017 International Astronautical Congress, and in the Tesla master plans and
-blog posts he signed. This repo turns those into a method you can run on your
-own company this week.
+Starbase rocket factory, at the 2017 International Astronautical Congress, in the Tesla master plans and blog
+posts he signed, and in his own posts on X. This repo turns those into a method you can run on your own company
+this week.
 
 > "I'd say the most common mistake of smart engineers is to optimize a thing that should not exist."
 > Elon Musk, Lex Fridman Podcast #438 (2024) [LEX438 00:44:53]
@@ -131,7 +131,8 @@ dates.
 - **Quotes checked by script against saved copies of their sources:** official transcripts, archived posts and
   PDFs, and for Starbase the YouTube auto-caption tracks (excerpts for Parts 1 and 2). A Starbase quote matches
   the captions, which may not match what he said. Details in [`SOURCES.md`](SOURCES.md#how-quotes-were-checked).
-- **Short quotes:** none over about 60 words; trims marked with an ellipsis; short works mostly paraphrased with a link.
+- **Short quotes:** none over about 60 words; trims marked with an ellipsis; long posts on X quoted for two
+  sentences at most.
 - **Every claim cited** with a source ID and timestamp, which map to links in [`SOURCES.md`](SOURCES.md).
 - **Caption errors flagged:** the Starbase videos have auto-captions; mishearings are marked `[sic]`.
 - **Famous but unverified phrases left out:** "idiot index" isn't in these sources, so it isn't quoted.
@@ -147,8 +148,8 @@ TED 2013, 2017 and 2022 (with Chris Anderson) · Lex Fridman Podcast #49 (2019),
 Dwarkesh Podcast (2026) · Starbase Tour with Elon Musk, Parts 1 to 3 (Everyday Astronaut, 2021) · IAC 2017
 "Making Life Multiplanetary" (SpaceX abridged transcript) · "Making Humans a Multi-Planetary Species", New
 Space (2017) · Hyperloop Alpha (2013, opening section) · The Secret Tesla Motors Master Plan (2006) · The
-Mission of Tesla (2013) · All Our Patent Are Belong To You (2014) · Master Plan, Part Deux (2016) · 7 posts on X
-(2018 to 2026). 17 sources, plus the posts.
+Mission of Tesla (2013) · All Our Patent Are Belong To You (2014) · Master Plan, Part Deux (2016) · 51 posts on X
+(2013 to 2026). 17 sources, plus the posts.
 
 ## What's new in v2
 
@@ -157,6 +158,8 @@ Mission of Tesla (2013) · All Our Patent Are Belong To You (2014) · Master Pla
 - Six new first-party sources, covering hiring, reviews, deadlines, the steel Starship, open patents, funding
   the next rocket and the 2026 power bottleneck.
 - Chapter 10 (make it yourself) and templates 06 to 08.
+- 44 more of his posts on X (51 in all), each dated from its ID: production hell as it happened, Raptor cost
+  targets, the booster catch, test-flight reviews, the limiting factor moving in self-driving, and his hiring posts.
 - Every chapter has a method section in our words. Fewer, shorter quotes.
 
 ## License

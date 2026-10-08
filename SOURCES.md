@@ -33,16 +33,61 @@ Fridman) or the caption track (Starbase). For `[DW]`, they are the start of the 
 
 | Date (UTC) | Post | Used in |
 |---|---|---|
+| 2013-05-12 | [Service and manufacturing efficiency, "Not sales constrained"](https://x.com/elonmusk/status/333387477412876288) | 06 |
+| 2017-07-30 | [Getting out of Model 3 production hell; more versions = deeper](https://x.com/elonmusk/status/891543170160353283) (a reply) | 03 |
+| 2017-10-26 | [Camping on the Gigafactory roof during production hell](https://x.com/elonmusk/status/923657991664095232) | 03 |
+| 2018-04-13 | ["Excessive automation at Tesla was a mistake"](https://x.com/elonmusk/status/984882630947753984) (a reply) | 02 |
 | 2018-09-11 | [Moving 2 of 7 Tesla colors off menu to simplify manufacturing](https://x.com/elonmusk/status/1039390759907020801) | 03 |
 | 2018-09-17 | [From production hell to delivery logistics hell](https://x.com/elonmusk/status/1041500594467270656) (a reply) | 03, 06 |
+| 2018-10-23 | [Model S and X interior configurations cut to simplify production](https://x.com/elonmusk/status/1054801685791436800) | 03 |
+| 2018-11-26 | ["Nobody ever changed the world on 40 hours a week"](https://x.com/elonmusk/status/1067173497909141504) | 08 |
+| 2018-11-26 | [About 80 hours sustained; pain rises above 80](https://x.com/elonmusk/status/1067175527180513280) (a reply) | 08 |
+| 2019-02-16 | [SpaceX foundry casting a Raptor manifold](https://x.com/elonmusk/status/1096722006450462721) | 10 |
+| 2019-10-01 | [Raptor cost target: under $1,000 per ton of thrust](https://x.com/elonmusk/status/1179107539352313856) (a reply) | 04 |
+| 2019-11-24 | [Starship steel decision came first, then Cybertruck](https://x.com/elonmusk/status/1198702136231526401) (a reply) | 10 |
+| 2020-04-26 | [Iterating design and manufacturing; manufacturing is harder](https://x.com/elonmusk/status/1254443441469128704) (a reply) | 05 |
+| 2020-09-22 | [Scaling production is 1000% to 10,000% harder than prototypes](https://x.com/elonmusk/status/1308284091142266881) | 03 |
+| 2020-11-03 | [The Model 3 ramp, mid 2017 to mid 2019](https://x.com/elonmusk/status/1323640901248393217) (a reply) | 03 |
+| 2020-11-25 | [Odds of a Starship landing: maybe one in three](https://x.com/elonmusk/status/1331388984023461888) (a reply) | 05 |
+| 2020-12-09 | [Starship SN8 landing: "we got all the data we needed"](https://x.com/elonmusk/status/1336809767574982658) | 05 |
+| 2020-12-30 | [Plan to catch the booster with the tower arm](https://x.com/elonmusk/status/1344327757916868608) (a reply) | 04 |
+| 2021-01-11 | ["The factory is the product"](https://x.com/elonmusk/status/1348716679774265344) (a reply) | 03 |
+| 2021-03-04 | ["Prototypes are easy, production is hard"](https://x.com/elonmusk/status/1367611973697818628) (a reply) | 03 |
+| 2021-03-10 | [Landing in a net; landing propellant is ~5% of dry mass](https://x.com/elonmusk/status/1369489056350883840) (a reply) | 01 |
+| 2021-04-10 | [Radar or vision: double down on vision](https://x.com/elonmusk/status/1380796939151704071) (a reply) | 02 |
+| 2021-08-13 | [Ship caught by the tower too; no landing legs](https://x.com/elonmusk/status/1426199109585756163) (a reply) | 04 |
+| 2021-10-08 | ["Cite evidence of exceptional ability in a few bullet points"](https://x.com/elonmusk/status/1446402077014515718) | 08 |
+| 2021-11-17 | [Raptor 2 to be replaced by a complete design overhaul](https://x.com/elonmusk/status/1460813037670219778) (a reply) | 05 |
+| 2022-05-06 | [Technical managers must be technically excellent](https://x.com/elonmusk/status/1522609829553971200) | 08 |
+| 2023-08-01 | [FSD control code to shrink 100x; compute is the constraint](https://x.com/elonmusk/status/1686513363495346178) (a reply) | 02, 06 |
 | 2024-02-11 | [Seasonality and factory utilisation](https://x.com/elonmusk/status/1756751879701156059) | 03 |
 | 2024-03-05 | [Physics tools and thinking in the limit](https://x.com/elonmusk/status/1764976308977594418) | 01 |
+| 2024-04-30 | ["The mental tools of physics are a superpower"](https://x.com/elonmusk/status/1785134934660616695) (a reply) | 01 |
+| 2024-05-07 | [FSD limiting factor moved from compute to validation](https://x.com/elonmusk/status/1787768103449010597) | 06 |
+| 2024-05-20 | [Starship Flight 4 goal: get through reentry heating](https://x.com/elonmusk/status/1792629142141177890) | 05, 06 |
+| 2024-06-06 | [Why steel: aluminum or carbon fiber would fail on reentry](https://x.com/elonmusk/status/1798744793478213771) | 04 |
+| 2024-08-03 | [Raptor 3 simplified until it needs no heat shield](https://x.com/elonmusk/status/1819597689283121225) | 02 |
+| 2024-08-14 | [Rate of innovation as the fundamental metric](https://x.com/elonmusk/status/1823601320596791422) (a reply) | 07 |
+| 2024-12-31 | [A reusable orbital heat shield has never been made](https://x.com/elonmusk/status/1873930478795055297) | 06 |
+| 2025-01-15 | [Hiring software engineers: "Just show us your code"](https://x.com/elonmusk/status/1879531470886465545) | 08 |
 | 2025-02-17 | ["Reasoning from first principles is a superpower"](https://x.com/elonmusk/status/1891351204862783701) | 01 |
+| 2025-02-18 | [First and second derivatives of the rate of innovation](https://x.com/elonmusk/status/1891719056090149276) | 07 |
+| 2025-02-27 | ["The scientist/engineer divide is artificial"](https://x.com/elonmusk/status/1894984155005403293) | 08 |
+| 2025-03-03 | [Raptor 3: twice the thrust of Raptor 1 at a quarter of the cost](https://x.com/elonmusk/status/1896703213434462640) | 04 |
+| 2025-05-28 | [Starship flight review: progress, failure, data, cadence](https://x.com/elonmusk/status/1927531406017601915) | 05 |
+| 2025-07-29 | ["There are only engineers" at xAI](https://x.com/elonmusk/status/1950254103474446728) | 08 |
+| 2025-07-30 | ["What matters is solving the limiting factor"](https://x.com/elonmusk/status/1950628379159621957) | 06 |
 | 2025-08-13 | ["Best part is no part"](https://x.com/elonmusk/status/1955735069659947392) | 02, SKILL |
+| 2025-08-19 | ["Best part is no part", about AI-written code](https://x.com/elonmusk/status/1957619120481984827) | 02 |
+| 2025-11-23 | [Tesla AI chips: a new design every 12 months; hiring by evidence](https://x.com/elonmusk/status/1992499020590108745) | 05, 08 |
+| 2026-01-20 | [Ramp speed is inversely proportionate to new parts and steps](https://x.com/elonmusk/status/2013751504847433803) (a reply) | 03 |
 | 2026-04-18 | [Lithium refining redesigned from physics first principles](https://x.com/elonmusk/status/2045309037848272993) | 10 |
+| 2026-05-21 | [Hiring AI engineers with no AI experience, by evidence of ability](https://x.com/elonmusk/status/2057327547411570907) | 08 |
+| 2026-08-23 | [SpaceX now makes its own steel alloys](https://x.com/elonmusk/status/2091617925669245333) | 10 |
 
-Most posts are paraphrased with a link rather than quoted, because quoting a short post in full would quote
-the whole work.
+51 posts in total. Each was fetched as JSON, the author checked as @elonmusk, and the date taken from the post
+ID and matched against the post's own timestamp. Short posts are sometimes quoted whole; long posts are quoted
+for no more than about two sentences. Replies are marked; we only use replies that make sense on their own.
 
 ## Labelling rules
 
