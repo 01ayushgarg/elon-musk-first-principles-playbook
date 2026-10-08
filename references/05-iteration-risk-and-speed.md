@@ -10,87 +10,113 @@ He describes three modes at SpaceX [SB2 05:35 to 06:22]:
 | Falcon | "Then Falcon is a little less conservative." |
 | Starship | "We're iterating rapidly in order to create the first ever fully reusable rocket." |
 
-> "Starship does not have anyone on board so we can blow things up. That's really helpful." [SB2 08:33]
+Starship can iterate fast because nobody is on board, so "we can blow things up" [SB2 08:33].
 
 ## Fear of change is a risk too
-
-> "In fact, a lack of iteration was the problem. Because a lot of the issues they were aware of, but people
-> were too afraid to make change." (on the Space Shuttle) [SB2 07:19]
 
 > "There was a risk/reward asymmetry. So, big punishment for, if you make a change and something goes wrong,
 > big punishment. If you make a change and it goes right, small reward." [SB2 07:34]
 
-> "Because it had worked before, they're like, well, it worked before. Russian roulette works before."
-> [SB2 08:07]
+On the Space Shuttle, he says, "a lack of iteration was the problem": people knew about issues but "were too
+afraid to make change" [SB2 07:19]. "It worked before" is not evidence; his comparison is Russian roulette
+[SB2 08:07].
 
-## Push the envelope
+## Push the envelope, knowing the cost
 
 > "And frankly, if you don't push the envelope, you cannot achieve the goal of a fully and rapidly reusable
-> rocket." [SB2 23:02] "You have to go close to the edge on margins." [SB2 23:12]
+> rocket." [SB2 23:02]
 
-> "None of the reasons that blew up are on the risk list." [SB1 33:04]
+He admits what that costs. None of the causes of Starship's early explosions were on the risk list
+[SB1 33:04]. In 2026 he described Raptor 3 as an engine that "desperately wants to blow up", with "thousands of
+ways that it could explode and only one way that it doesn't" [DW 01:44:16].
 
 ## Make it work, then make it efficient
 
 > "In general, with any given technology, you first try to make it work, and then you make it efficient."
 > [LEX400 02:07:56]
 
-> "Create a draft and then you iterate on that draft until it has coherence, until it all adds up
-> basically." [LEX400 00:41:51]
+Early production is for learning: "All of the initial production is simply a learning exercise... what
+knowledge can you learn in the shortest period of time?" [SB3 17:09] He compares good iteration to a guided
+missile that keeps correcting its course, against a precise cannon ball fired before you know where the target
+is [SB3 16:27 to 16:33].
 
-> "You learn to drive in the parking lot, get things right at low speed." [LEX49 28:29]
+When customers depend on the product, he moved the risky learning elsewhere. Falcon 9 didn't have Starship's
+freedom, but "Technically we did have the Grasshopper program." [SB3 17:49]
 
-## Early units are for learning
+## Deadlines: aggressive, but at the 50th percentile
 
-> "All of the initial production is simply a learning exercise... what knowledge can you learn in the
-> shortest period of time?" [SB3 17:09]
+> "So it's not like an impossible deadline, but it's the most aggressive deadline I can think of that could be
+> achieved with 50% probability. Which means that it'll be late half the time." [DW 01:44:16]
 
-> "Like a guided missile is going in the wrong direction at any given point in time, but it costs [sic]
-> course-corrects." [SB3 16:27] "You don't want to be a super precise canon ball when you don't even know
-> where the target is." [SB3 16:33]
+He gives the reason as "a law of gas expansion that applies to schedules": a five-year deadline "will expand to
+fill the available schedule" [DW 01:44:16]. He also names the limit on speed: "Physics will limit how fast you
+can do certain things." [DW 01:44:16]
 
-On Falcon 9, which was already flying cargo: "No, we did not have this flexibility with Falcon 9." [SB3 17:32]
-"Technically we did have the Grasshopper program." [SB3 17:49] **Our reading:** when customers depend on the
-product, run the risky learning on a separate test track.
+**Our reading:** this explains his public lateness. A deadline set at a coin-flip will be missed about half the
+time by design. Borrow the method, not the dates. He calls himself "pathologically optimistic on schedule"
+[LEX400 01:54:38].
 
 ## Urgency
 
-> "If we operate with extreme urgency, then we have a chance of making life multi-planetary... If we don't act
-> with extreme urgency, that chance is probably zero." [SB3 13:10]
+> "Generally, a maniacal sense of urgency is a very big deal. You want to have an aggressive schedule and you want
+> to figure out what the limiting factor is at any point in time and help the team address that limiting
+> factor." [DW 01:44:16]
 
-> "The rate of innovation is not gonna be constant... we're either going to increase the rate of innovation or
-> it's gonna slow down." [SB3 13:27]
+At Starbase he put it as odds: with extreme urgency there's a chance of making life multi-planetary; without it
+"that chance is probably zero" [SB3 13:10]. On time: "Time is the true currency." [LEX438 01:18:28]
 
-## Simulate when you get few tries
+## When to take drastic action
 
-> "All this has got to be simulated because you don't get very many kicks at the can." [LEX400 00:53:58]
+> "I'll take drastic action only when I conclude that success is not in a set of possible outcomes." [DW 01:44:16]
 
-## Time is the currency
+His test is a trend, not a moment: with weekly reviews you can "mentally plot the points on a curve" and ask
+whether the work is converging [DW 01:44:16] (chapter 08).
 
-> "Time is the true currency." [LEX438 01:18:28]
+---
 
-> "The one thing you cannot replace is time." [SB2 36:50]
+## How to apply it (our suggestion)
 
-> "But the marginal value of a better decision can easily be, in the course of an hour, a hundred million
-> dollars." [LEX438 01:18:32]
+1. **Sort every piece of work into a mode.** Dragon: failure hurts people, money or trust you can't win back.
+   Falcon: failure hurts paying customers but is recoverable. Starship: nobody is on board.
+2. **Check the speed matches the mode.** Count reviews and days per change.
+3. **Fix the incentives.** If a failed change costs more to the person than a good change earns, people stop
+   changing things.
+4. **Set each deadline at your honest 50th percentile.** Write down the date you think is a coin-flip, and
+   expect to miss half.
+5. **Plot progress weekly** on the thing that matters. If the line isn't converging, change course; if success
+   has left the set of possible outcomes, act drastically.
 
-> "Everything you see here is a work in progress... And what is said last week may be untrue next week."
-> [SB2 31:41 to 31:46] "So let's not wait for the tower to be completed." [SB2 32:35]
+### Worked scenario (fictional)
 
-## On his own schedules
+A fintech app has three streams of work.
 
-> "I would say that I'm pathologically optimistic on schedule. This is true." [LEX400 01:54:38]
+| Work | Should be | Was | Fix |
+|---|---|---|---|
+| Card payments | Dragon | Falcon (shipped weekly, no rollback) | Staged rollout, rollback, two reviewers |
+| Spending insights screen | Falcon | Dragon (three sign-offs, 3 weeks per change) | One reviewer, feature flag, weekly |
+| New budgeting prototype | Starship | Dragon | Opt-in testers, ship daily |
 
-Take the urgency, not the dates.
+Deadline for the prototype: the team's honest guesses range from 4 to 10 weeks. The 50th percentile is about
+6 weeks, so 6 is the deadline, not 4 (wishful) or 10 (gas expansion). Week 3 plot: activation of testers rising
+from 8% to 19% to 27%. Converging, so no drastic action.
 
-## Risk you can't remove
+### Failure modes
 
-> "You can't get the risk down to zero, it's not possible. So, you want to have the highest possible reward,
-> given there's a certain irreducible risk." [LEX438 00:18:11]
+- **A Starship run like a Dragon.** Weeks of review for something no customer sees.
+- **A Dragon run like a Starship.** "Move fast" applied to payments, health or data.
+- **Impossible deadlines.** A 10th-percentile date is not urgency; it teaches people to ignore dates.
+- **Drastic action on one bad week.** His test is the curve, not the point.
+
+### Limits
+
+His Starship tolerance comes from having no crew on board and a launch site he controls. Most companies have
+customers on every flight. The Grasshopper move (a separate test track) is often the only honest way to get
+Starship speed.
 
 **Use it now:** `templates/04-iteration-mode.md`.
 
 **Checks to run:**
-1. For each thing you're building: is it a Dragon, a Falcon or a Starship? Are you iterating at the right speed?
+1. For each thing you're building: is it a Dragon, a Falcon or a Starship? Is the speed right?
 2. Does your culture punish a failed change more than it rewards a good one?
-3. What are you waiting on that you could start in parallel?
+3. Is each deadline your honest 50th percentile?
+4. What are you waiting on that you could start in parallel?
