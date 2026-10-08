@@ -15,7 +15,9 @@ tours · `[MP1]` `[MP2]` master plans · `[IAC17]` `[NS17]` `[HYP13]` `[MIS13]` 
 He has posted that "Reasoning from first principles is a superpower" [X 2025-02-17](https://x.com/elonmusk/status/1891351204862783701), and
 says the tools of physics are "really just critical thinking" that apply to "really any arena in life"
 [LEX400 01:10:59]. In a 2024 post he named two of those tools: "first principles analysis and thinking in the
-limit" [X 2024-03-05](https://x.com/elonmusk/status/1764976308977594418).
+limit" [X 2024-03-05](https://x.com/elonmusk/status/1764976308977594418). A month later he repeated the claim
+that these tools travel: "The mental tools of physics are a superpower that applies to anything, not just
+physics" [X 2024-04-30](https://x.com/elonmusk/status/1785134934660616695).
 
 ## Think in the limit
 
@@ -33,6 +35,13 @@ Two of his examples:
 
 **The move:** push one variable to its extreme in each direction and see what still matters, then choose the
 point between the extremes that survives the real world.
+
+A small dated example of sizing an idea at its limit before chasing it: when someone suggested in 2021 that
+Starship drop its landing propellant and fall into a giant net, he said SpaceX had discussed it and "Could just have it land on a big net or bouncy
+castle. Lacks dignity, but would work." Then the number: "optimized landing propellant is only ~5% of dry mass,
+so it's not a gamechanger" [X 2021-03-10](https://x.com/elonmusk/status/1369489056350883840). **Our reading:**
+take the saving to its limit (all of it gone) and ask what that is worth. If the best case is 5%, spend the
+effort elsewhere.
 
 ## Reality is the judge
 

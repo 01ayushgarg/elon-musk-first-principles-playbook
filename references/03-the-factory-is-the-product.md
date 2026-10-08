@@ -12,13 +12,21 @@ like that. This is completely false." [SB1 05:03 to 05:15]
 > thing, which has not been accomplished by an American car company in 100 years, is reaching volume
 > production without going bankrupt." [TED22 32:42]
 
+In posts he has put the ratio higher. Scaling production of new technology is "1000% to 10,000% harder than
+making a few prototypes" [X 2020-09-22](https://x.com/elonmusk/status/1308284091142266881), and: "Prototypes are
+easy, production is hard & being cash flow positive is excruciating."
+[X 2021-03-04](https://x.com/elonmusk/status/1367611973697818628)
+
 ## The machine that makes the machine
 
 > "That is why Tesla engineering has transitioned to focus heavily on designing the machine that makes the
 > machine -- turning the factory itself into a product." [MP2]
 
 The reason he gives in the same plan: what matters for the mission is scaling production volume "as quickly as
-possible" [MP2].
+possible" [MP2]. He said the same in 2020, "The machine that makes the machine is vastly harder than the machine
+itself." [X 2020-09-22](https://x.com/elonmusk/status/1308284091142266881), and in 2021 shortened it to the
+title of this chapter: "The factory is the product"
+[X 2021-01-11](https://x.com/elonmusk/status/1348716679774265344).
 
 ## Production hell: the Model 3 line
 
@@ -29,7 +37,15 @@ His own account, at TED in 2022:
 
 He rejects the idea that doing more by hand would simply have fixed it [TED22 33:46], and says he lived in the
 Fremont and Nevada factories for three years fixing the line, sleeping on the floor so the team could see he was
-there [TED22 33:46]. In September 2018 he posted that Tesla had gone "from production hell to delivery logistics
+there [TED22 33:46].
+
+The posts from the time give the dates. In July 2017 the focus was "getting out of Model 3 production hell",
+and he gave the reason for holding back new versions: "More versions = deeper in hell."
+[X 2017-07-30](https://x.com/elonmusk/status/891543170160353283) That October he thanked the Gigafactory team and
+explained why he slept there: "Reason I camped on the roof was because it was less time than driving to a hotel
+room in Reno." He called the stage "Production hell, ~8th circle" [X 2017-10-26](https://x.com/elonmusk/status/923657991664095232). Looking back in
+2020: "The Model 3 ramp was extreme stress & pain for a long time", lasting "from mid 2017 to mid 2019"
+[X 2020-11-03](https://x.com/elonmusk/status/1323640901248393217). In September 2018 he posted that Tesla had gone "from production hell to delivery logistics
 hell", which he called "far more tractable"
 [X 2018-09-17](https://x.com/elonmusk/status/1041500594467270656). **Our reading:** the limiting factor moved
 from the line to the trucks, and he said so publicly the moment it did (chapter 06).
@@ -41,7 +57,15 @@ from the line to the trucks, and he said so publicly the moment it did (chapter 
 > number." [DW 01:17:21]
 
 He adds that a product with all-custom parts and no existing supply chain will "initially ramp slower" than one
-built from catalogue parts [DW 01:17:21].
+built from catalogue parts [DW 01:17:21]. A post a few weeks earlier states the rule behind the slope:
+
+> "The speed of the production ramp is inversely proportionate to how many new parts and steps there are."
+> [X 2026-01-20](https://x.com/elonmusk/status/2013751504847433803)
+
+For Cybercab and Optimus, where "almost everything is new", he predicted the early rate would be "agonizingly
+slow, but eventually end up being insanely fast" [X 2026-01-20](https://x.com/elonmusk/status/2013751504847433803).
+**Our reading:** every new part and step you add flattens the start of your ramp. Reuse what you can on the
+first version, and plan for a slow start where you can't.
 
 ## Be on the line
 
@@ -49,7 +73,9 @@ built from catalogue parts [DW 01:17:21].
 > [LEX438 00:50:52]
 
 Two simplifications he made to the product to make the line easier: taking two of seven Tesla paint colours
-off the standard menu in 2018 [X 2018-09-11](https://x.com/elonmusk/status/1039390759907020801), and designing
+off the standard menu in 2018 [X 2018-09-11](https://x.com/elonmusk/status/1039390759907020801) (a month
+later, many Model S and X interior configurations went the same way, "To simplify production"
+[X 2018-10-23](https://x.com/elonmusk/status/1054801685791436800)), and designing
 the Optimus robot "to be manufactured in the same way they would make a car" [LEX400 02:11:02]. He calls the
 mismatch between steady factories and seasonal demand "the essential quandary of manufacturing"
 [X 2024-02-11](https://x.com/elonmusk/status/1756751879701156059).

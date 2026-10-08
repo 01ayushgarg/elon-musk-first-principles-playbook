@@ -26,7 +26,9 @@ steel", and the team was struggling to make even a small barrel section without 
 twice as heavy at room temperature but, at cryogenic temperature, comes close to carbon fiber on
 strength-to-weight, and "it costs 50x less in raw material and is very easy to work with". It also needs less
 heat shield, so he says the steel rocket ended up lighter. His verdict: "It was dumb not to do steel."
-[DW 01:44:16]
+[DW 01:44:16] He has also posted that heat alone would have ruled out the alternatives: "the ship would have
+failed on reentry if made of aluminum or carbon fiber, as they can't take the heat"
+[X 2024-06-06](https://x.com/elonmusk/status/1798744793478213771).
 
 **Our reading:** the material's floor price beat its catalogue reputation. Nobody would pick steel to save
 weight, until the whole system was counted.
@@ -37,6 +39,12 @@ weight, until the whole system was counted.
 > per ton to orbit are good." [SB1 06:20 to 06:26]
 
 For Raptor, the sub-number was getting the cost per ton of thrust under a thousand dollars [SB1 06:10 to 06:16].
+He had posted the target two years earlier: cost was "tracking to well under $1M for V1.0", and the "Goal is
+<$250k for V2.0 is a 250 ton thrust-optimized engine, ie <$1000/ton"
+[X 2019-10-01](https://x.com/elonmusk/status/1179107539352313856). In 2025 he reported the trend: "Raptor 3 has
+almost twice the thrust and much higher reliability than Raptor 1, despite costing about four times less!"
+[X 2025-03-03](https://x.com/elonmusk/status/1896703213434462640) **Our reading:** a cost per unit of
+performance lets cost fall while performance rises, and lets anyone check the trend.
 For Mars, he set the gap as a multiple: the cost of trips had to improve "by five million percent", about four
 and a half orders of magnitude [NS17].
 
@@ -63,7 +71,13 @@ aircraft for the same trip, because one you build each time and the other you on
 > "So, every one ton of mass begets an extra ton." [SB2 24:08]
 
 "If you can move mass to the ground side, it's better to move mass to the ground side." [SB2 30:24] He applies it: that's why the booster has no legs and the tower
-catches it [SB2 30:28]. Hyperloop used the same logic in reverse: put the complexity in the pod, because "it is
+catches it [SB2 30:28]. The plan was public in 2020: "We're going to try to catch the Super Heavy Booster with the
+launch tower arm, using the grid fins to take the load"
+[X 2020-12-30](https://x.com/elonmusk/status/1344327757916868608). In 2021 he extended it to the ship: "As with
+booster, no landing legs. Those are only needed for moon & Mars until there is local infrastructure."
+[X 2021-08-13](https://x.com/elonmusk/status/1426199109585756163) **Our reading:** the grid fins were already on
+the booster, so the catch deleted the legs without adding a new part to the vehicle. The legs come back only
+where there is no ground side to move them to. Hyperloop used the same logic in reverse: put the complexity in the pod, because "it is
 important to make the tube as low cost and simple as possible" [HYP13].
 
 ---

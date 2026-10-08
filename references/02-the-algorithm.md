@@ -26,7 +26,19 @@ intern came up with two years ago [SB1 16:16].
 He says the bias runs "very strongly towards, let's add this part of the process step in case we need it"
 [SB1 14:07], so you have to overcorrect, which he calls "a cortical override to a limbic instinct"
 [LEX438 00:47:21]. His shortest version: "Best part is no part"
-[X 2025-08-13](https://x.com/elonmusk/status/1955735069659947392).
+[X 2025-08-13](https://x.com/elonmusk/status/1955735069659947392). Six days later he used the same words about
+AI-written code, quoting a post that praised a model for writing only what was asked: "Best part is no part
+@Grok" [X 2025-08-19](https://x.com/elonmusk/status/1957619120481984827).
+
+Two deletions from Tesla's AI work, in his posts:
+- **A sensor.** "When radar and vision disagree, which one do you believe? Vision has much more precision, so
+  better to double down on vision than do sensor fusion." [X 2021-04-10](https://x.com/elonmusk/status/1380796939151704071)
+- **Code.** Training vehicle control end to end, he wrote in 2023, "will drop >300k lines of C++ control code by
+  ~2 orders of magnitude" [X 2023-08-01](https://x.com/elonmusk/status/1686513363495346178).
+
+**Our reading:** in software the part you delete is often a data source, an integration or a block of code.
+His radar question is a usable test: when two inputs disagree and you always trust one, the other may be a part
+you don't need.
 
 ## Step 3 · Simplify or optimize
 
@@ -35,6 +47,13 @@ He says the bias runs "very strongly towards, let's add this part of the process
 
 Why smart people do it: school trains "convergent logic", so "you can't tell a professor, your question is
 dumb." [SB1 17:40 to 17:50]
+
+His dated example of simplifying what survived is Raptor 3: "The amount of work required to simplify the Raptor
+engine, internalize secondary flow paths and add regenerative cooling for exposed components was staggering." The
+payoff, he wrote, was an engine that "doesn't require any heat shield, eliminating heat shield mass & complexity,
+as well as the fire suppression system" [X 2024-08-03](https://x.com/elonmusk/status/1819597689283121225).
+**Our reading:** good simplification can delete whole subsystems downstream, and it can be the hardest work on
+the project, not the easiest.
 
 ## Step 4 · Accelerate cycle time
 
@@ -45,6 +64,10 @@ dumb." [SB1 17:40 to 17:50]
 
 > "I've gone backwards so many times where I've automated something, sped it up, simplified it, and then deleted
 > it. And I got tired of doing that." [LEX438 00:48:09]
+
+He said it publicly in the middle of the Model 3 ramp in 2018: "Yes, excessive automation at Tesla was a mistake.
+To be precise, my mistake. Humans are underrated."
+[X 2018-04-13](https://x.com/elonmusk/status/984882630947753984)
 
 ## The story: Model 3 fiberglass mats [SB1 22:21 to 24:42]
 
