@@ -5,7 +5,9 @@
 > solve for something else." [DW 00:00:00]
 
 **The move:** at any moment, one thing limits progress. Name it, work on it, and expect it to move. He has
-said the same in 2023: there's always "some kind of limiting factor to progress" [LEX400 01:15:29].
+said the same in 2023: there's always "some kind of limiting factor to progress" [LEX400 01:15:29]. His
+shortest version, from 2025: "What matters is solving the limiting factor"
+[X 2025-07-30](https://x.com/elonmusk/status/1950628379159621957).
 
 ## It moves, so keep asking
 
@@ -13,13 +15,24 @@ His examples, across companies and years:
 
 | Year | Where | The limiting factor, as he named it |
 |---|---|---|
+| 2013 | Tesla | "Improving service and honing manufacturing efficiency are the biggest short term challenges. Not sales constrained." [X 2013-05-12](https://x.com/elonmusk/status/333387477412876288) |
 | 2018 | Tesla Model 3 | The production line, then delivery logistics [TED22 33:46] [X 2018-09-17](https://x.com/elonmusk/status/1041500594467270656) |
 | 2021 | Starship | Getting to orbit first; doors and other features could wait [SB2 28:01 to 28:19] |
 | 2023 | Starship launch | "the limiting factor for SpaceX for Starship launch is regulatory approval" [LEX400 01:16:42] |
 | 2023 | AI compute | Chips, then transformers, then electricity, in that order over two years [LEX400 01:12:13] |
+| 2023 | Tesla self-driving | "Our progress is currently training compute constrained, not engineer constrained." [X 2023-08-01](https://x.com/elonmusk/status/1686513363495346178) |
+| 2024 | Tesla self-driving | "The limiting factor for FSD progress was AI training compute, but now it is validation, as the interventions are so rare." [X 2024-05-07](https://x.com/elonmusk/status/1787768103449010597) |
+| 2024 | Starship | Reentry: "no one has ever succeeded in creating a fully reusable heat shield" [X 2024-05-20](https://x.com/elonmusk/status/1792629142141177890) |
 | 2024 | AI training cluster | Cabling, and "extreme power jitter" [LEX438 00:50:52, 00:49:56] |
 | 2026 | Starship | "the heat shield be reusable": landing, refilling and flying again without inspecting 40,000 tiles [DW 01:44:16] |
 | 2026 | Power for AI | Gas turbines, and within them "The limiting factor is the vanes and blades" [DW 00:00:00] |
+
+**Our reading of the dated posts:** the self-driving rows show the limit moving inside one product in nine
+months, from compute to validation, and he said so when it moved. The heat shield shows the opposite: the same
+limit across years. At the end of 2024 he wrote "A truly reusable orbital heat shield has never been made, but I
+think SpaceX has a decent chance of solving it in 2025 and solving it well in 2026"
+[X 2024-12-31](https://x.com/elonmusk/status/1873930478795055297), and in 2026 he still named it as the limit
+[DW 01:44:16]. Keep asking every week; don't assume the answer changed.
 
 The 2026 power case shows the drill-down. Electricity output outside China is roughly flat while chip output
 grows "pretty much exponentially" [DW 00:00:00]. Ask why you can't build power plants, and the answer is

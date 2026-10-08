@@ -30,6 +30,25 @@ He admits what that costs. None of the causes of Starship's early explosions wer
 [SB1 33:04]. In 2026 he described Raptor 3 as an engine that "desperately wants to blow up", with "thousands of
 ways that it could explode and only one way that it doesn't" [DW 01:44:16].
 
+## Judge a test flight by what it taught
+
+His posts around Starship test flights follow one pattern: odds before, data after.
+- **Before.** Asked in November 2020 how he rated the chances of the next Starship prototype landing in one
+  piece: "Lot of things need to go right, so maybe 1/3 chance"
+  [X 2020-11-25](https://x.com/elonmusk/status/1331388984023461888).
+- **After.** The landing ended in an RUD (rapid unscheduled disassembly). His summary: "Fuel header tank pressure was low during landing burn, causing
+  touchdown velocity to be high & RUD, but we got all the data we needed!"
+  [X 2020-12-09](https://x.com/elonmusk/status/1336809767574982658)
+- **One goal per flight.** Before Flight 4 in 2024: "Primary goal is getting through max reentry heating."
+  [X 2024-05-20](https://x.com/elonmusk/status/1792629142141177890)
+- **Progress, failure, cadence.** After a 2025 flight he listed what improved, what failed ("Leaks caused loss of
+  main tank pressure during the coast and re-entry phase"), then "Lot of good data to review" and a faster
+  cadence of "approximately 1 every 3 to 4 weeks" [X 2025-05-28](https://x.com/elonmusk/status/1927531406017601915).
+
+**Our reading:** for Starship-mode work, write the odds and the one goal down before the test, and report the
+result against them after. A failed test that hit its learning goal is a result; a test with no stated goal
+teaches nothing you can check.
+
 ## Make it work, then make it efficient
 
 > "In general, with any given technology, you first try to make it work, and then you make it efficient."
@@ -42,6 +61,15 @@ is [SB3 16:27 to 16:33].
 
 When customers depend on the product, he moved the risky learning elsewhere. Falcon 9 didn't have Starship's
 freedom, but "Technically we did have the Grasshopper program." [SB3 17:49]
+
+He iterates the factory along with the design: "Successive iteration of both design & manufacturing. Latter is
+1000% harder than former." [X 2020-04-26](https://x.com/elonmusk/status/1254443441469128704) And he will
+replace a design that works: "Raptor 2 has significant improvements in every way, but a complete design overhaul
+is necessary for the engine that can actually make life multiplanetary."
+[X 2021-11-17](https://x.com/elonmusk/status/1460813037670219778) For Tesla's AI chips he set the iteration as
+a fixed cadence: "Our goal is to bring a new AI chip design to volume production every 12 months."
+[X 2025-11-23](https://x.com/elonmusk/status/1992499020590108745) **Our reading:** a fixed cadence turns
+iteration from a hope into a schedule you can review.
 
 ## Deadlines: aggressive, but at the 50th percentile
 

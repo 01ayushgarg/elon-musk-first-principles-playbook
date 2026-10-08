@@ -30,6 +30,17 @@ answer for a light rocket. Counted from raw material, cryogenic behaviour, weldi
 and he says "we should have started with steel in the beginning" [DW 01:44:16]. Part of the case was working
 conditions: "You can weld stainless steel outdoors." [DW 01:44:16]
 
+Two posts show where the material choice led. In 2019 he said the steel moved between companies: "Starship steel
+decision came first. We were going to use titanium skins for Cybertruck, but cold-rolled 30X stainless is much
+stronger." [X 2019-11-24](https://x.com/elonmusk/status/1198702136231526401) And in 2026 the make-it-yourself
+step had gone down to the alloy: "We have since created our own new alloys and no longer use 301."
+[X 2026-08-23](https://x.com/elonmusk/status/2091617925669245333)
+
+The same goes for processes. In 2019 he posted "SpaceX foundry casting Raptor engine manifold
+out of Inconel" [X 2019-02-16](https://x.com/elonmusk/status/1096722006450462721). **Our reading:** casting is
+the step he names as the turbine bottleneck in 2026 (above); SpaceX already ran its own foundry for engine parts
+years earlier.
+
 ## What it costs
 
 Making things yourself is slower at first (the S-curve, chapter 03) and needs people who can do it. The 2014

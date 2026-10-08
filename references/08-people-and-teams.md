@@ -11,6 +11,18 @@ himself, as an aspiration) to trust the conversation over the CV. If a strong re
 conversation that isn't impressive after 20 minutes, "you should believe the conversation, not the paper."
 [DW 01:44:16]
 
+His hiring posts have asked for the same thing for years:
+- 2021, for Tesla AI: "Please cite evidence of exceptional ability in a few bullet points. Nothing else matters."
+  [X 2021-10-08](https://x.com/elonmusk/status/1446402077014515718)
+- 2025, for software engineers at X: "We don't care where you went to school or even whether you went to
+  school" ... "Just show us your code." [X 2025-01-15](https://x.com/elonmusk/status/1879531470886465545)
+- 2025, for Tesla's chip team: "three bullet points describing evidence of your exceptional ability"
+  [X 2025-11-23](https://x.com/elonmusk/status/1992499020590108745)
+- 2026, for AI engineers at SpaceX, from outside the field: "even if you have zero prior experience in AI. Smart
+  humans figure it out fast." [X 2026-05-21](https://x.com/elonmusk/status/2057327547411570907)
+
+**Our reading:** the format is the filter. Three bullets of evidence, or the work itself, replace the CV.
+
 ## Traits you can't train, knowledge you can
 
 > "Generally, I think it's a good idea to hire for talent and drive and trustworthiness. And I think goodness of
@@ -19,6 +31,13 @@ conversation that isn't impressive after 20 minutes, "you should believe the con
 If those are present, he says, "you can add domain knowledge", which is why most people at Tesla and SpaceX
 didn't come from aerospace or cars [DW 01:44:16]. He admits his own record isn't perfect, and says he
 learned by checking which hires worked out [DW 01:44:16].
+
+On drive, his 2018 post is blunt: "There are way easier places to work, but nobody ever changed the world on 40
+hours a week" [X 2018-11-26](https://x.com/elonmusk/status/1067173497909141504). Asked how many hours, he
+answered "about 80 sustained, peaking above 100 at times" and added his own warning: "Pain level increases
+exponentially above 80." [X 2018-11-26](https://x.com/elonmusk/status/1067175527180513280) **Our reading:** this
+describes the bar at his companies, not a number we recommend. If you hire for drive, say so openly, as he does,
+so people can choose.
 
 **What the problem needs.** Asked about Neuralink's engineering, he listed the problems it faces: "material
 science, electrical engineering, software, mechanical engineering, microfabrication, it's a bunch of engineering
@@ -32,6 +51,21 @@ for follow from them.
 
 His example: big effort to cut engine mass, hardly any on "proponent [sic: propellant] residuals"
 [SB1 38:47 to 38:54]. Every requirement also needs a person's name, "not a department" [SB1 16:00] (chapter 02).
+
+He applies the same idea to job titles. In 2025: "The scientist/engineer divide is artificial", and "what
+matters is working on the limiting factor" [X 2025-02-27](https://x.com/elonmusk/status/1894984155005403293).
+Later that year he removed the split at xAI, calling it "a thinly-masked way of describing a two-tier
+engineering system", and concluded: "There are only engineers."
+[X 2025-07-29](https://x.com/elonmusk/status/1950254103474446728)
+
+## Managers must be able to do the work
+
+> "I strongly believe that all managers in a technical area must be technically excellent. Managers in software
+> must write great software or it's like being a cavalry captain who can't ride a horse!"
+> [X 2022-05-06](https://x.com/elonmusk/status/1522609829553971200)
+
+**Our reading:** this is the management side of "be on the line" (chapter 03) and of skip-level reviews below.
+A manager who can't do the work can't tell a bad optimization from a good one.
 
 ## Weekly reviews, skip-level, no rehearsal
 

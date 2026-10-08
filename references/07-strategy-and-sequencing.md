@@ -52,6 +52,17 @@ added that Tesla alone could never build cars fast enough for a fleet of about 2
 
 **Our reading:** the moat he names is people (chapter 08), not paperwork.
 
+## Measure the rate of innovation, not the position
+
+> "Rate of innovation is the fundamental metric for determining the probable success of a technology company"
+> [X 2024-08-14](https://x.com/elonmusk/status/1823601320596791422)
+
+Six months later he added the derivatives: to see who will win a technology competition, "look at the first and
+second derivatives of the rate of innovation" [X 2025-02-18](https://x.com/elonmusk/status/1891719056090149276).
+**Our reading:** judge yourself and each competitor by how fast things improve and whether that pace is
+speeding up, not by who is ahead today. It is the same logic as the patents post: what lasts is the team's
+speed, not a fixed asset.
+
 ## The tech tree
 
 > "So, there's kind of a tech tree, if you will. You've got the basics. You need literacy before you can have
